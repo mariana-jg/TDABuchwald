@@ -4,6 +4,9 @@
 ### Cuatrimestre de Cursada
 1° Cuatrimestre 2024
 
+### Puntuación de Dificultad
+**Dificultad:** ⭐⭐⭐⭐⭐ 5/5
+
 ### Página de la materia
 [Link](https://algoritmos-rw.github.io/tda_bg/)
 
