@@ -1,5 +1,4 @@
-# TDABuchwald
-## Teoría de Algoritmos - Cátedra Buchwald-Genender
+# Teoría de Algoritmos - Cátedra Buchwald-Genender
 
 ### Cuatrimestre de Cursada
 1° Cuatrimestre 2024
